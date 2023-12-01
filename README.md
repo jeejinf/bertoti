@@ -33,5 +33,7 @@ Aqui estão alguns exemplos de sites que implementam corretamente as heurística
 
 -----
 
-## Bot do Telegram (Encontrado na pasta IHC/bot_telegram)
-# Configurar o .env (exemplo no arquivo .env.example) com as suas credenciais (do BotFather e OpenAI) você terá um bot integrado com o ChatGPT 4, que pode responder suas perguntas no Telegram.
+## Bot do Telegram (Encontrado na pasta IHC/bot_telegram
+Como executar?
+Configurar o .env (exemplo no arquivo .env.example) com as suas credenciais (do BotFather e OpenAI) você terá um bot integrado com o ChatGPT 4, que pode responder suas perguntas no Telegram.
+Após isso, instalar as dependencias usando npm install, e logo após instalado, rodar com npm start
