@@ -30,3 +30,8 @@ Aqui estão alguns exemplos de sites que implementam corretamente as heurística
 | #8  | <a href="https://open.spotify.com/">Spotify<a/> | <img src="https://github.com/jeejinf/bertoti/raw/main/IHC/imagens/regra8.png" alt="Regra 8" width="70%"> | O minimalismo no Spotify pode ser percebido pelo uso de apenas ícones, na parte esquerda, enquanto a parte principal é bem simples, com as informações úteis explicitas. |
 | #9  | <a href="https://gmail.com/">Gmail (Cadastro)<a/> | <img src="https://github.com/jeejinf/bertoti/raw/main/IHC/imagens/regra9.png" alt="Regra 9" width="50%"> | Ao colocar uma letra na hora do cadastro do Gmail logo é retornado um erro avisando que a data inserida não é válida. |
 | #10 | <a href="https://bard.google.com/">Bard<a/> | <img src="https://github.com/jeejinf/bertoti/raw/main/IHC/imagens/regra10.png" alt="Regra 10" width="50%"> | Bem na tela principal do Bard, é possível ver um ícone de interrogação, onde há um FAQ (Perguntas frequentes) e uma outra aba para auxiliar o usuário com documentações mais específicas. |
+
+-----
+
+## Bot do Telegram (Encontrado na pasta IHC/bot_telegram)
+# Configurar o .env (exemplo no arquivo .env.example) com as suas credenciais (do BotFather e OpenAI) você terá um bot integrado com o ChatGPT 4, que pode responder suas perguntas no Telegram.
